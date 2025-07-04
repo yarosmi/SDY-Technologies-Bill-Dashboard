@@ -56,7 +56,7 @@ WHERE
 ```
  
 ### Dashboard
-The SDY Technologies Dashboard can be [viewed](https://app.powerbi.com/links/vGVpHpf6hr?ctid=9bfa5866-930f-47e6-8d3c-1afc43c89e23&pbi_source=linkShare) on the official Power Bi web app viewer, and is interactable with the visualizations to filter data by Doctor, Doc. Specialties, Medical Facilities and Insurnace Providers. It contains 3 main pages that is organized by data segments and a few separate ToolTip pages that aid in providing more context in some chart visualizations.
+The SDY Technologies Dashboard can be [viewed](https://app.powerbi.com/links/vGVpHpf6hr?ctid=9bfa5866-930f-47e6-8d3c-1afc43c89e23&pbi_source=linkShare) on the official Power Bi web app viewer, and is interactable with the visualizations to filter data by Doctor, Doc. Specialties, Medical Facilities and Insurnace Providers. It contains 3 main pages that is organized by data segments and a few separate ToolTip pages that aid in providing more context in some chart visualizations. Each visualiaztion is interactive and ipon clickin a bar in a bar chart of a slice in a pie chart, all other cards and visualization will show data for the specific subject you selected. And some visualization have ToolTips that appear when you hover over slices and bars/lines to give more context on the subject.
 ![sdy dashbaord pg1](https://github.com/user-attachments/assets/69e9084c-abf4-4432-95ad-b2c3b24fddc4)
 ![sdy dashbaord pg2](https://github.com/user-attachments/assets/06adf576-c25d-42bb-b7ae-b825ca6f9507)
 ![sdy dashbaord pg3](https://github.com/user-attachments/assets/dd1a7316-1298-4a32-8ff3-607110c79b05)
